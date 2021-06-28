@@ -1,3 +1,9 @@
+<?php   
+
+echo "test";
+
+?>
+
 <html>
 
 <head>
@@ -10,13 +16,13 @@ body
 	color: white;
 	background-color: black;
 }
-#nie
-{
-	font-size: 24px;
-}
 </style>
 </head>
 
-<body> śmierdzisz. <br> <a href="nie.html" id="nie">ale ja nie smierdze</a></body>
+<body>
+	
+	test
+	
+</body>
 
 </html>
